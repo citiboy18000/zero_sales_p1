@@ -1,3 +1,6 @@
+-- CREATE a Database
+CREATE DATABASE zero_analyst_db;
+
 -- Data Exploration
 SELECT * 
 FROM sales;
